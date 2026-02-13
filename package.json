@@ -8,12 +8,16 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weaponxwolf/wxwolf.git"
+  },
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "prepublishOnly": "npm run build"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "Amit Kumar Mahato",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.0",
