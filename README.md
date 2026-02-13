@@ -8,4 +8,8 @@
 
 ```bash
 npm login
+
+npm version patch/minor/major
+
+git push --follow-tags
 ```
