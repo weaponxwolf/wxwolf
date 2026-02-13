@@ -1,6 +1,6 @@
 {
   "name": "wxwolf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first simple npm library",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
